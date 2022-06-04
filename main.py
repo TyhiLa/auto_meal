@@ -43,7 +43,7 @@ HEADERS = {
     "Accept-Language": "en-US,en;q=0.9"
 }
 # 测试帐号
-ac1 = {"account": "13080832887", "password": "wb258369"}
+ac1 = {"account": "phone_number", "password": "password"}
 
 
 # 密码处理
